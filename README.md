@@ -36,5 +36,5 @@ About the Techinacal Things.
 
 Programming language-C ,Cpp,Python.
 
-Techincal Platfrom-AWS,GCP,cloud,Arudino,Matlab,webdevelopement,Flutter,Androidstudi,Tinker
+Techincal Platfrom-AWS,GCP,Cloud,Arudino,Matlab,Web development,Flutter,Android studio,Tinkercad
 

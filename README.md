@@ -1,6 +1,6 @@
 ### Hi 👋 Here is S@nket M@ll@w@t.
 <br/>
-<a href="sanket.mallawat91@gmail.com">
+<a href="https://mail.google.com/mail/sanket.mallawat91@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sanket-mallawat/">

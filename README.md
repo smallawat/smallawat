@@ -27,7 +27,7 @@
 
 Hi,I am Sanket Mallawat ,Pursuing TE-E&TC at Sinhgad Academy Of Engineeering,Pune.I am AIOT inspire and Python enthusiasts always doing new things and enjoy the Life.
 
-- 🔭 I’m currently working on GsPune website.
+- 🔭 I’m currently working on GCP cloud.
 - completed my project on Automatic voice control car.
 - 🌱 I’m currently learning AI,ML and iot stuff.
 - 💬 feel free to reach me.
